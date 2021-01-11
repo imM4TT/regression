@@ -6,7 +6,7 @@
 Il s'agit ici d'un cas de regression linéaire multivariés avec plusieurs features (kilomètres parcourues, ancienneté de la voiture, type du moteur etc.)
 
 2. Estimation de cas avéré ou non d'une maladie, dans le contexte médiacal ou les patients peuvent être atteints de trouble cardio-vasulaires
-C'est une classification réalisée à partir d'un set de donnée de 7'000 échantillons, et d'une dizaines de features.
+C'est une classification réalisée à partir d'un set de donnée de 70'000 échantillons, et d'une dizaines de features.
 
 ### La méthode appliquée dans les deux registres est sensiblement la même:
 - Analyse, preprocessing, visualisation des données initiales (NumPy, Pandas, Matplotlib, Seaborn)
